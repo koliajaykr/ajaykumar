@@ -1,0 +1,62 @@
+---
+title: "Dr. Ajay Kumar Koli, PhD"
+image: "profile.png"
+about: 
+  template: trestles
+  image-shape: rounded
+  links: 
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/ajaykoli.bsky.social
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/ajay-kumar-koli/
+    - icon: github
+      text: GitHub
+      href: https://github.com/koliajaykr
+    - icon: twitter
+      text: Twitter
+      href: https://x.com/ajay_kolii
+    - icon: envelope
+      text: Email
+      href: mailto:koliajaykumar@gmail.com        
+format: html
+title-block-banner: false
+page-layout: full
+theme: cosmo
+---
+
+<br>
+
+Hi! I'm Ajay Kumar, co-founder and Executive Director at [SARA](https://sara-edu.netlify.app/), where we teach data science to under-represented communities in India. I’m passionate to make learning data science engaging and effective (possibly fun). I currently live in Sonipat, HR with my daughter, mom and wife.
+
+Away from work, I love jogging and cooking.
+
+:::: {.columns}
+
+::: {.column width="60%"}
+#### Education
+
+- ***Ph.D.* in Marketing, 2019**<br>*University of Hyderabad, India*
+
+- ***DAAD* Fellowship 2014**<br>*University of Würzburg, Germany*
+
+- ***M.B.A* in Tourism Studies, 2008**<br>*Pondicherry Central University, India*<br>{{< fa medal >}} Gold Medalist
+
+- ***B.A. Hons.* in Russian Language, 2006**<br>*Jawaharlal Nehru University, India*
+
+- ***B.A.* in Tourism Studies, 2006**<br>*IGNOU, India*
+
+:::
+
+::: {.column width="40%"}
+#### Interests
+
+- Education empowerment & social impact
+
+- Data science & R programming
+
+- Community development
+:::
+
+::::
